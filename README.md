@@ -1,16 +1,10 @@
 <div>
 🔴🟡🟢
-
-<br>
-
-## <div align="center"> <h2> What´s up brou I'm Gab 👽</h2> </div>
-
+</div>
+<br/>
+<h1 align="center">What's up brou I'm Gab 👽</h1>
+<br/>
 <!--
-**GabMond07/GabMond07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,24 +14,18 @@ Here are some ideas to get you started:
 -->
 
 <!--About Me-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<!--h1 without bottom border-->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 23px></picture> About me
+
 - 🔭 I’m currently studying systems engineering at [BUAP](https://www.buap.mx/) 
-- 🌱 I’m currently learning [Astro](https://astro.build/) `Framework`
+- 🌱 I’m currently learning [Astro](https://astro.build/) `Framework`.
 - 📫 How to reach me: **gabmond.rg@gmail.com** or instagram: **@gabmond**
 - 💬 Ask me about innovation, technology and music
 <br>
+
+
  <h3 align="center">A passionate backend developer from Puebla Mex.</h3>
-
+ 
 ---
-## <div align="center"> ![followers](https://img.shields.io/github/followers/GabMond07?style=social) ![stars](https://img.shields.io/github/stars/GabMond07?style=social)</div>
-<p status, align='center'>
-  <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Amor del bueno-&?style=social&logo=spotify'>
-  </a>
-</p status>
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 <br>
 <div>
@@ -71,7 +59,17 @@ Here are some ideas to get you started:
 
 <br>
 
-<!--profile visit count-->
+<!--My activities-->
+<p align='center'>
+  <a href="https://github.com/GabMond07?tab=followers">
+    <img src="https://img.shields.io/github/followers/GabMond07?style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/GabMond07?tab=stars"/>
+    <img src="https://img.shields.io/github/stars/GabMond07?style=social" alt="stars" />  
+  </a>
+   <img src="https://komarev.com/ghpvc/?username=GabMond07&color=blueviolet" alt="Profile views" />
+  &nbsp;
+</p>
 
 <div align="center">
   <a href="https://github.com/GabMond07">
@@ -81,6 +79,7 @@ Here are some ideas to get you started:
     <img alt="GabMond07" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMond07&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
@@ -91,6 +90,7 @@ Here are some ideas to get you started:
 ### Spotify Playing Gab 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
 
 ---
 
