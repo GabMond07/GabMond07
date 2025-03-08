@@ -17,7 +17,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 23px></picture> About me
 
 - 🔭 I’m currently studying systems engineering at [BUAP](https://www.buap.mx/) 
-- 🌱 I’m currently learning [Astro](https://astro.build/), [Next](https://nextjs.org/) `Frameworks`.
+- 🌱 I’m currently learning [Astro](https://astro.build/), [Next](https://nextjs.org/), React `Frameworks`.
 - 📫 How to reach me: **gabmond.rg@gmail.com** or instagram: **@gabmond**
 - 💬 Ask me about innovation, technology and music
 <br>
