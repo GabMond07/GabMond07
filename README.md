@@ -23,7 +23,7 @@
 <br>
 
 
- <h3 align="center">A passionate backend developer from Puebla Mex.</h3>
+ <h3 align="center">A passionate full-stack developer from Puebla Mex.</h3>
  
 ---
 
