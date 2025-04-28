@@ -55,7 +55,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-  ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 </div>
 <br>
 
