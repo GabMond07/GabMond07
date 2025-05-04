@@ -47,10 +47,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
-  ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
   ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
   ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
   ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
